@@ -1,3 +1,16 @@
+In this project i have used React with some hooks to develop this along with APIs key things used in this project are : async/await function useState () and useEffect() hooks utilization javascript / React
+
+Outputs of the overall website view : Landing Page
+![image](https://github.com/user-attachments/assets/56e3b180-48ad-47d4-9104-35d75457505e)
+
+Search
+![image](https://github.com/user-attachments/assets/b136ab2b-68f5-4582-9059-1198ab04e2b4)
+
+After searching the result displayed
+![image](https://github.com/user-attachments/assets/453925e5-5009-46d0-9abc-8a9bc99bdc0b)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
