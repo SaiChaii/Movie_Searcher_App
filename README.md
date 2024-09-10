@@ -1,7 +1,5 @@
 In this project i have used React with some hooks to develop this along with APIs key things used in this project are : async/await function useState () and useEffect() hooks utilization javascript / React
 
-api url : https://dummyjson.com/docs/products
-
 Outputs of the overall website view : Landing Page
 ![image](https://github.com/user-attachments/assets/56e3b180-48ad-47d4-9104-35d75457505e)
 
